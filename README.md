@@ -1,2 +1,3 @@
-# aoc21
-AoC attempt for 2021
+# Advent of Code 2021
+
+Help
